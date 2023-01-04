@@ -1,0 +1,7 @@
+ <div class="container">
+    <div class="hex-colors">
+      <h1>Click the button below to display the hex color code of random colors</h1>
+      <h2>The hex code of the color is #<span id="hex-code">00000</span></h2>
+      <button onclick="changeColor()" class="btn btn-primary">Click for magic!</button>
+    </div>
+  </div>
